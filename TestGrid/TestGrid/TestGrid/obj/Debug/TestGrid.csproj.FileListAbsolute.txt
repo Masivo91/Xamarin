@@ -1,0 +1,12 @@
+E:\BoostIt\Apps\TestGrid\TestGrid\TestGrid\bin\Debug\TestGrid.dll
+E:\BoostIt\Apps\TestGrid\TestGrid\TestGrid\bin\Debug\TestGrid.pdb
+E:\BoostIt\Apps\TestGrid\TestGrid\TestGrid\bin\Debug\Xamarin.Forms.Core.dll
+E:\BoostIt\Apps\TestGrid\TestGrid\TestGrid\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\BoostIt\Apps\TestGrid\TestGrid\TestGrid\bin\Debug\Xamarin.Forms.Core.xml
+E:\BoostIt\Apps\TestGrid\TestGrid\TestGrid\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\BoostIt\Apps\TestGrid\TestGrid\TestGrid\obj\Debug\TestGrid.csprojResolveAssemblyReference.cache
+E:\BoostIt\Apps\TestGrid\TestGrid\TestGrid\obj\Debug\TestGrid.dll
+E:\BoostIt\Apps\TestGrid\TestGrid\TestGrid\obj\Debug\TestGrid.pdb
+E:\BoostIt\Apps\TestGrid\TestGrid\TestGrid\obj\Debug\control.xaml.g.cs
+E:\BoostIt\Apps\TestGrid\TestGrid\TestGrid\obj\Debug\MainPage.xaml.g.cs
+E:\BoostIt\Apps\TestGrid\TestGrid\TestGrid\obj\Debug\Container.xaml.g.cs
